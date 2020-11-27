@@ -1,0 +1,4 @@
+include ':iff_msm_library-0.10.7'
+include ':iff_mam_common_3.0.0'
+include ':app'
+rootProject.name = "CBNativeTest"
